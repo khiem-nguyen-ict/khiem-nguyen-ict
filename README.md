@@ -115,35 +115,3 @@ Based in **Turku, Finland**, currently working remotely with clients in the U.S.
 </p>
 
 **Networking & Systems** — VPN · LAN/WAN · Cisco Routers · SIP/VoIP · Virtual & Cloud Computing · CMMI/ISO Process Standards
-
----
-
-### 📌 Pinned & Recent Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[ai-fit-global](https://github.com/khiem-nguyen-ict/ai-fit-global)** | AI-powered fitness app using computer vision (MediaPipe pose detection) to track workouts and reps in real time | TypeScript |
-| **[ai-report](https://github.com/khiem-nguyen-ict/ai-report)** | LLM-driven reporting pipeline that automates sprint/QA report generation | JavaScript |
-| **[ESP32_Robot_Project](https://github.com/khiem-nguyen-ict/ESP32_Robot_Project)** | Embedded robotics project running on an ESP32 microcontroller | C |
-| **[Health-CRM](https://github.com/khiem-nguyen-ict/Health-CRM)** | A CRM tool for healthcare client/patient management | HTML |
-| **[Finnish-Career-Consultant](https://github.com/khiem-nguyen-ict/Finnish-Career-Consultant)** | Tooling to help job seekers navigate the Finnish job market | TypeScript |
-| **[suomea.adcrew.us](https://github.com/khiem-nguyen-ict/suomea.adcrew.us)** | Web platform built under the AdCrew brand | TypeScript |
-
-> 💡 Visit [my repositories](https://github.com/khiem-nguyen-ict?tab=repositories) for the full list.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khiem-nguyen-ict&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khiem-nguyen-ict&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khiem-nguyen-ict&layout=compact&hide_border=true" height="165"/>
-</p>
-
----
-
-<p align="center"><i>Open to part-time, remote/hybrid Senior or Lead roles with Finnish and European startups & scaleups.</i></p>
