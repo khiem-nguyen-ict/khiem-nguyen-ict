@@ -115,3 +115,7 @@ Based in **Turku, Finland**, currently working remotely with clients in the U.S.
 </p>
 
 **Networking & Systems** — VPN · LAN/WAN · Cisco Routers · SIP/VoIP · Virtual & Cloud Computing · CMMI/ISO Process Standards
+
+---
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=khiem-nguyen-ict&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
