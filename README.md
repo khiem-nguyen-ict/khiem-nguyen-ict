@@ -118,9 +118,9 @@ Based in **Turku, Finland**, currently working remotely with clients in the U.S.
 
 ---
 
-# 📊 My GitHub Stats
+### 📊 My GitHub Stats
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <td align="center" valign="top">
       <!-- GitHub Main Stats Card -->
@@ -138,7 +138,3 @@ Based in **Turku, Finland**, currently working remotely with clients in the U.S.
     </td>
   </tr>
 </table>
-
-### 🏆 Trophies
-<!-- Optional: GitHub Profile Trophies (They adapt natively to light backgrounds) -->
-[![]((https://github-profile-trophy.vercel.app/?username=khiem-nguyen-ict&theme=flat))](https://github.com/ryo-ma/github-profile-trophy)
