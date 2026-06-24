@@ -120,34 +120,34 @@ Based in **Turku, Finland**, currently working remotely with clients in the U.S.
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <!-- Main Stats Card -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=khiem-nguyen-ict&show_icons=true&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=khiem-nguyen-ict&show_icons=true&theme=default" />
-    <img alt="Khiem Nguyen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=khiem-nguyen-ict&show_icons=true&theme=default" width="49%" />
-  </picture>
-  
-  <!-- Top Languages Card -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khiem-nguyen-ict&layout=compact&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khiem-nguyen-ict&layout=compact&theme=default" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khiem-nguyen-ict&layout=compact&theme=default" width="49%" />
-  </picture>
-</p>
-
-<p align="center">
-  <!-- Streak Stats Card (Full Width) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=khiem-nguyen-ict&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=khiem-nguyen-ict&theme=default" />
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=khiem-nguyen-ict&theme=default" width="100%" />
-  </picture>
-</p>
-
-### 🏆 Trophies
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=khiem-nguyen-ict&theme=onedark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=khiem-nguyen-ict&theme=flat" />
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=khiem-nguyen-ict&theme=flat" width="100%" />
-</picture>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- Main Stats Card -->
+    <td align="center" valign="top" width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=khiem-nguyen-ict&show_icons=true&theme=dark&height=195" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=khiem-nguyen-ict&show_icons=true&theme=default&height=195" />
+        <img alt="Khiem Nguyen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=khiem-nguyen-ict&show_icons=true&theme=default&height=195" width="100%" />
+      </picture>
+    </td>
+    <!-- Top Languages Card -->
+    <td align="center" valign="top" width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khiem-nguyen-ict&layout=compact&theme=dark&height=195" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khiem-nguyen-ict&layout=compact&theme=default&height=195" />
+        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khiem-nguyen-ict&layout=compact&theme=default&height=195" width="100%" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <!-- Streak Stats Card (Full Width Below) -->
+    <td align="center" valign="top" colspan="2">
+      <br />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=khiem-nguyen-ict&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=khiem-nguyen-ict&theme=default" />
+        <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=khiem-nguyen-ict&theme=default" width="100%" />
+      </picture>
+    </td>
+  </tr>
+</table>
