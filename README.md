@@ -118,4 +118,27 @@ Based in **Turku, Finland**, currently working remotely with clients in the U.S.
 
 ---
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=khiem-nguyen-ict&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+# 📊 My GitHub Stats
+
+<table border="0">
+  <tr>
+    <td align="center" valign="top">
+      <!-- GitHub Main Stats Card -->
+      <img src="https://github-readme-stats.vercel.app/api?username=khiem-nguyen-ict&show_icons=true&theme=default" alt="Khiem Nguyen's GitHub Stats" />
+    </td>
+    <td align="center" valign="top">
+      <!-- Top Languages Card -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khiem-nguyen-ict&layout=compact&theme=default" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="2">
+      <!-- GitHub Streak Card -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=khiem-nguyen-ict&theme=default" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+### 🏆 Trophies
+<!-- Optional: GitHub Profile Trophies (They adapt natively to light backgrounds) -->
+[![]((https://github-profile-trophy.vercel.app/?username=khiem-nguyen-ict&theme=flat))](https://github.com/ryo-ma/github-profile-trophy)
