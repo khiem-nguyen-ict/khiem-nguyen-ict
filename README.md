@@ -139,15 +139,4 @@ Based in **Turku, Finland**, currently working remotely with clients in the U.S.
       </picture>
     </td>
   </tr>
-  <tr>
-    <!-- Streak Stats Card (Full Width Below) -->
-    <td align="center" valign="top" colspan="2">
-      <br />
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=khiem-nguyen-ict&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=khiem-nguyen-ict&theme=default" />
-        <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=khiem-nguyen-ict&theme=default" width="100%" />
-      </picture>
-    </td>
-  </tr>
 </table>
