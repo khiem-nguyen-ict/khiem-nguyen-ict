@@ -33,7 +33,7 @@ I'm a **full-stack engineer, technical lead, and architect** with **22+ years** 
 - **What it does:** Automatically count reps, detect form issues, provide instant feedback
 - **Impact:** Real-time pose detection & form correction
 
-[🔗 View Repo](https://github.com/khiem-nguyen-ict/ai-fit-global) | [📱 Demo](#)
+[🔗 View Repo](https://github.com/khiem-nguyen-ict/ai-fit-global)
 
 </td>
 <td width="50%">
@@ -45,7 +45,7 @@ I'm a **full-stack engineer, technical lead, and architect** with **22+ years** 
 - **What it does:** Guide users through CV creation and cover letters for Finnish jobs
 - **Impact:** Specialized for 50M+ Nordic job seekers
 
-[🔗 View Repo](https://github.com/khiem-nguyen-ict/Finnish-Career-Consultant) | [🎓 Live Demo](#)
+[🔗 View Repo](https://github.com/khiem-nguyen-ict/Finnish-Career-Consultant)
 
 </td>
 </tr>
@@ -59,7 +59,7 @@ I'm a **full-stack engineer, technical lead, and architect** with **22+ years** 
 - **What it does:** Real-time conversational practice with AI tutoring
 - **Impact:** 1000s of language learners practicing daily
 
-[🔗 View Repo](https://github.com/khiem-nguyen-ict/suomea.adcrew.us) | [🎯 Live Demo](https://suomea.adcrew.us)
+[🔗 View Repo](https://github.com/khiem-nguyen-ict/suomea.adcrew.us)
 
 </td>
 <td width="50%">
@@ -69,7 +69,7 @@ I'm a **full-stack engineer, technical lead, and architect** with **22+ years** 
 
 - **Tech:** React, GraphQL BFF, Java, FHIR, PostgreSQL
 - **What it does:** Demonstrates modern healthcare data architecture patterns
-- **Impact:** Used as architecture blueprint by multiple healthcare teams
+- **Impact:** Used as an architecture blueprint by multiple healthcare teams
 
 [🔗 View Repo](https://github.com/khiem-nguyen-ict/fhir-fullstack-architecture-playground)
 
