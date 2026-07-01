@@ -72,7 +72,7 @@ I'm a **full-stack engineer, technical lead, and architect** with **22+ years** 
 - **Impact:** Used as an architecture blueprint by multiple healthcare teams
 
 [🔗 View Repo](https://github.com/khiem-nguyen-ict/fhir-fullstack-architecture-playground)
-
+[🔗 Playwright Test Report](https://khiem-nguyen-ict.github.io/fhir-fullstack-architecture-playground/)
 </td>
 </tr>
 </table>
