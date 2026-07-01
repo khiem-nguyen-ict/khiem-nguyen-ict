@@ -177,20 +177,20 @@ I'm a **full-stack engineer, technical lead, and architect** with **22+ years** 
 
 ## 📊 GitHub Analytics
 
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td align="center" valign="top" width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=khiem-nguyen-ict&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=khiem-nguyen-ict&show_icons=true&theme=default&hide_border=true&count_private=true" />
-        <img alt="Khiem Nguyen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=khiem-nguyen-ict&show_icons=true&theme=default&hide_border=true&count_private=true" width="100%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://stats-github-readme.vercel.app/api?username=khiem-nguyen-ict&show%5C_icons=true&theme=dark&hide%5C_border=false&count%5C_private=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://stats-github-readme.vercel.app/api?username=khiem-nguyen-ict&show%5C_icons=true&theme=light&hide%5C_border=false&count%5C_private=true" />
+        <img alt="Khiem Nguyen's GitHub Stats" src="https://stats-github-readme.vercel.app/api?username=khiem-nguyen-ict&show%5C_icons=true&theme=default&hide%5C_border=false&count%5C_private=true" width="100%" />
       </picture>
     </td>
     <td align="center" valign="top" width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khiem-nguyen-ict&layout=compact&theme=dark&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khiem-nguyen-ict&layout=compact&theme=default&hide_border=true" />
-        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khiem-nguyen-ict&layout=compact&theme=default&hide_border=true" width="100%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://stats-github-readme.vercel.app/api/top-langs/?username=khiem-nguyen-ict&layout=compact&theme=dark&hide%5C_border=false" />
+        <source media="(prefers-color-scheme: light)" srcset="https://stats-github-readme.vercel.app/api/top-langs/?username=khiem-nguyen-ict&layout=compact&theme=light&hide%5C_border=false" />
+        <img alt="Top Languages" src="https://stats-github-readme.vercel.app/api/top-langs/?username=khiem-nguyen-ict&layout=compact&theme=default&hide%5C_border=false" width="100%" />
       </picture>
     </td>
   </tr>
