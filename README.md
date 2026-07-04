@@ -188,9 +188,9 @@ I'm a **full-stack engineer, technical lead, and architect** with **22+ years** 
     </td>
     <td align="center" valign="top" width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://stats-github-readme.vercel.app/api/top-langs/?username=khiem-nguyen-ict&layout=compact&theme=dark&hide%5C_border=false" />
-        <source media="(prefers-color-scheme: light)" srcset="https://stats-github-readme.vercel.app/api/top-langs/?username=khiem-nguyen-ict&layout=compact&theme=light&hide%5C_border=false" />
-        <img alt="Top Languages" src="https://stats-github-readme.vercel.app/api/top-langs/?username=khiem-nguyen-ict&layout=compact&theme=default&hide%5C_border=false" width="100%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://stats-github-readme.vercel.app/api/top-langs/?username=khiem-nguyen-ict&layout=compact&theme=dark&hide%5C_border=false&langs_count=20" />
+        <source media="(prefers-color-scheme: light)" srcset="https://stats-github-readme.vercel.app/api/top-langs/?username=khiem-nguyen-ict&layout=compact&theme=light&hide%5C_border=false&langs_count=20" />
+        <img alt="Top Languages" src="https://stats-github-readme.vercel.app/api/top-langs/?username=khiem-nguyen-ict&layout=compact&theme=default&hide%5C_border=false&langs_count=20" width="100%" />
       </picture>
     </td>
   </tr>
