@@ -12,11 +12,11 @@
 
 ## 🚀 Quick Overview
 
-I'm a **full-stack engineer, technical lead, and architect** with **22+ years** of experience spanning healthcare, fintech, AI/R&D, telecom, and mobile platforms — from solo MVPs to systems used by 10M+ users.
+I'm a **full-stack engineer, technical lead, and architect** with **22+ years** of experience building scalable software across healthcare IT, AI/ML, fintech, telecom, mobile, and embedded/IoT systems — from solo MVPs to production platforms.
 
 🌍 **Based in:** Turku, Finland | 📚 **Studying:** BSc in ICT (Data Engineering & AI) at Turku UAS  
-💼 **Currently:** Building AI-assisted code analysis tools & computer vision fitness applications  
-🎯 **Specialties:** Full-stack architecture · Distributed teams · AI/ML integration · DevOps & IoT
+💼 **Currently:** Building AI-assisted development tools, computer vision fitness apps, and open-source supply-chain security projects  
+🎯 **Specialties:** Full-stack architecture · Distributed team leadership · AI/ML integration · DevOps & CI/CD · Healthcare IT (FHIR) · Embedded/IoT security
 
 ---
 
@@ -27,52 +27,79 @@ I'm a **full-stack engineer, technical lead, and architect** with **22+ years** 
 <td width="50%">
 
 ### 🏋️ **AI Fit Global**
-*Computer vision workout tracking with real-time form feedback*
+*AI-powered fitness application with real-time computer vision form tracking*
 
-- **Tech:** TypeScript, React, MediaPipe, Computer Vision
-- **What it does:** Automatically count reps, detect form issues, provide instant feedback
-- **Impact:** Real-time pose detection & form correction
+- **Tech:** TypeScript, React, MediaPipe, TensorFlow.js
+- **What it does:** Automatically counts reps, detects exercise form issues, and provides instant feedback using pose detection
+- **Impact:** Real-time pose estimation & corrective feedback for home and gym workouts
 
 [🔗 View Repo](https://github.com/khiem-nguyen-ict/ai-fit-global)
 
 </td>
 <td width="50%">
 
-### 🌐 **Finnish Career Consultant**
-*AI-powered job application assistant for Finnish market*
+### 📊 **FHIR Full-Stack Architecture**
+*Production-ready healthcare data integration reference stack with E2E testing*
 
-- **Tech:** TypeScript, Gemini API, Claude, Node.js
-- **What it does:** Guide users through CV creation and cover letters for Finnish jobs
-- **Impact:** Specialized for 50M+ Nordic job seekers
+- **Tech:** React, GraphQL BFF, Spring Boot, PostgreSQL, Playwright
+- **What it does:** End-to-end reference implementation of FHIR-shaped data flow from frontend to patient service
+- **Impact:** Architecture blueprint for modern healthcare data integration; includes live demo and E2E test suite ⭐ 1
 
-[🔗 View Repo](https://github.com/khiem-nguyen-ict/Finnish-Career-Consultant)
+[🔗 View Repo](https://github.com/khiem-nguyen-ict/fhir-fullstack-architecture-playground)
+[🔗 Live Demo](https://khiem-nguyen-ict.github.io/fhir-fullstack-architecture-playground/)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🧠 **Suomea - Learn Finnish with AI**
-*Interactive speech-to-speech language learning platform*
+### 🌐 **Finnish Career Consultant**
+*AI-powered career consultant specialized in the Finnish job market*
 
-- **Tech:** TypeScript, React, WebSocket, Google Gemini Live, TTS
-- **What it does:** Real-time conversational practice with AI tutoring
-- **Impact:** 1000s of language learners practicing daily
+- **Tech:** TypeScript, Node.js, Google Gemini API, Claude API
+- **What it does:** Guides users through phased job application process to create Finnish-style CVs and cover letters optimized for ATS
+- **Impact:** Built for the Nordic job market with localized Finnish hiring patterns and ATS optimization
 
-[🔗 View Repo](https://github.com/khiem-nguyen-ict/suomea.adcrew.us)
+[🔗 View Repo](https://github.com/khiem-nguyen-ict/Finnish-Career-Consultant)
 
 </td>
 <td width="50%">
 
-### 📊 **FHIR Full-Stack Architecture**
-*Production-ready healthcare data integration reference stack*
+### 🧠 **Suomea — Learn Finnish with AI**
+*Interactive speech-to-speech language learning platform with real-time AI tutoring*
 
-- **Tech:** React, GraphQL BFF, Java, FHIR, PostgreSQL
-- **What it does:** Demonstrates modern healthcare data architecture patterns
-- **Impact:** Used as an architecture blueprint by multiple healthcare teams
+- **Tech:** TypeScript, React, WebSocket, Google Gemini Live API, Text-to-Speech
+- **What it does:** Enables real-time conversational Finnish practice with AI pronunciation correction and adaptive difficulty
+- **Impact:** Daily active language learners practicing speaking skills with zero pressure
 
-[🔗 View Repo](https://github.com/khiem-nguyen-ict/fhir-fullstack-architecture-playground)
-[🔗 Playwright Test Report](https://khiem-nguyen-ict.github.io/fhir-fullstack-architecture-playground/)
+[🔗 View Repo](https://github.com/khiem-nguyen-ict/suomea.adcrew.us)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔒 **Binary Vulnerability Detection PoC**
+*Detect CVE-vulnerable OSS components in ARM & x86_64 embedded binaries*
+
+- **Tech:** Python, Java, Ghidra, Machine Learning, Binary Fingerprinting
+- **What it does:** Uses Ghidra disassembly and feature-based similarity matching to identify vulnerable components in firmware binaries
+- **Impact:** Enables proactive security auditing for embedded devices without source code access ⭐ 1
+
+[🔗 View Repo](https://github.com/khiem-nguyen-ict/Binary-Vulnerability-Detection-PoC)
+
+</td>
+<td width="50%">
+
+### 📱 **Flutter Enterprise Starter**
+*Scalable Flutter mobile app built on clean architecture and industry best practices*
+
+- **Tech:** Dart, Flutter, Clean Architecture, BLoC, Internationalization (i18n)
+- **What it does:** Production-ready starter template with feature-first structure, API integration, offline support, and multi-language support
+- **Impact:** Accelerates enterprise Flutter development with proven architecture patterns
+
+[🔗 View Repo](https://github.com/khiem-nguyen-ict/flutter-enterprise-starter)
+
 </td>
 </tr>
 </table>
@@ -81,21 +108,22 @@ I'm a **full-stack engineer, technical lead, and architect** with **22+ years** 
 
 ## 🎯 What I'm Currently Doing
 
-- 🔭 **Building:** AI-assisted code-scanning/reporting pipeline (Node.js + LLM APIs)
-- 🌱 **Learning:** Data engineering & ML tooling (Airflow, dbt, Spark, Airflow, Polars)
-- 📝 **Exploring:** Advanced computer vision for real-world applications
-- 🤝 **Mentoring:** Early-career engineers on full-stack architecture & career pivots
+- 🔭 **Building:** AI-assisted development tools, computer vision fitness trackers, and supply-chain security scanners for embedded firmware
+- 🌱 **Learning:** Data engineering & ML tooling (Airflow, dbt, Apache Spark, Polars), LLM fine-tuning, and binary analysis with Ghidra
+- 📝 **Exploring:** Flutter enterprise architecture, Godot game development, and real-time WebSocket AI applications
+- 🤝 **Mentoring:** Early-career engineers on full-stack architecture, career pivots into AI/Data Engineering, and open-source contribution workflows
 
 ---
 
 ## 💡 Ask Me About
 
-- **Full-stack architecture** at scale (mobile, web, backend, infrastructure)
-- **Leading distributed teams** across timezones and cultures
-- **AI/ML integration** into production systems
-- **Career pivots** — I went from 20 years in traditional backend to AI/Data Engineering!
-- **OSS supply-chain security**, embedded/IoT projects, DevOps best practices
-- **Healthcare IT architecture** (FHIR, patient data systems, ERP)
+- **Full-stack architecture** at scale — mobile, web, backend, infrastructure, and GraphQL BFF patterns
+- **AI/ML integration** into production — LLMs, computer vision, speech-to-text, RAG pipelines
+- **Healthcare IT & FHIR** — interoperability, patient data systems, GraphQL, E2E testing with Playwright
+- **Embedded/IoT security** — binary vulnerability detection, firmware analysis, ESP32/Arduino, Ghidra
+- **DevOps & CI/CD** — Jenkins, GitHub Actions, Docker, Kubernetes, Terraform, supply-chain security
+- **Mobile development** — Flutter clean architecture, React Native, cross-platform strategy, i18n
+- **Career pivots** — from 20 years in traditional backend to AI/Data Engineering & open-source
 
 ---
 
@@ -131,6 +159,8 @@ I'm a **full-stack engineer, technical lead, and architect** with **22+ years** 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
 </p>
 
 **Cloud, DevOps & Infrastructure**
@@ -162,6 +192,13 @@ I'm a **full-stack engineer, technical lead, and architect** with **22+ years** 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ghidra-000000?style=flat&logo=ghidra&logoColor=white"/>
+</p>
+
+**Game Development**
+<p>
+<img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot&logoColor=white"/>
+<img src="https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godot&logoColor=white"/>
 </p>
 
 **Tools & Collaboration**
@@ -202,12 +239,16 @@ I'm a **full-stack engineer, technical lead, and architect** with **22+ years** 
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **MatchLens** | LinkedIn profile optimization Chrome extension | JavaScript, WebSocket |
-| **Jenkins Learning Platform** | Complete, production-ready Jenkins CI/CD setup | Shell, Docker, Jenkins |
-| **Health CRM** | Healthcare workflow & patient management system | HTML, JavaScript, Database |
-| **AI Report Generator** | Automated MS Teams message scraping & report generation | JavaScript, Claude/Gemini APIs |
-| **ESP32 Robot Project** | IoT robot development with embedded systems | C, ESP32 |
-| **Client Solutions** | Interactive SVG map for Vietnam (interactive web campaigns) | HTML, SVG, JavaScript |
+| **Binary Vulnerability Detection PoC** | Detect CVE-vulnerable OSS components in ARM & x86_64 embedded binaries using Ghidra disassembly ⭐ 1 | Python, Java, Ghidra, ML |
+| **Flutter Enterprise Starter** | Scalable Flutter mobile app with clean architecture, BLoC, offline support, and i18n | Dart, Flutter, Clean Architecture |
+| **Sieniseikkailu** | Godot v4.5.1 mushroom hunting adventure game — TurkuAMK group project ⭐ 1 | GDScript, Godot Engine |
+| **Pimple Popper** | Satisfying casual game with interactive popping mechanics | JavaScript, Canvas, Game Dev |
+| **MatchLens** | Chrome extension for LinkedIn profile optimization and ATS scoring | JavaScript, WebSocket |
+| **Jenkins Learning Platform** | Complete production-ready Jenkins CI/CD environment with Docker ⭐ 1 | Shell, Docker, Jenkins |
+| **AI Report Generator** | MS Teams scraper with AI-powered HTML reports and email delivery ⭐ 1 | JavaScript, Claude API, Gemini API |
+| **Health CRM** | Healthcare CRM with patient events, workflows, and Google Sheets integration ⭐ 1 | HTML, JavaScript, Google Apps Script |
+| **ESP32 Robot Project** | IoT robot with embedded systems and sensor integration | C, ESP32, Arduino |
+| **Client Solutions** | Interactive SVG map of Vietnam for digital marketing campaigns | HTML, SVG, JavaScript |
 
 ---
 
@@ -221,16 +262,14 @@ I'm a **full-stack engineer, technical lead, and architect** with **22+ years** 
 
 ## 🤝 Let's Connect
 
-I'm always interested in collaborating on:
-- 🚀 **Innovative AI/ML projects** that solve real-world problems
-- 🏗️ **Full-stack architecture discussions** and mentoring
-- 📱 **Mobile and web platform scaling** challenges
-- 💼 **Open source contributions** in data engineering & AI
+I'm currently **open to part-time remote opportunities** and selective collaboration on AI/ML, healthcare IT, and open-source security projects.
+
+- 📧 **Email:** nguyenthanhkhiemvn@gmail.com
+- 💼 **LinkedIn:** [in/khiem-nguyen-ict](https://www.linkedin.com/in/khiem-nguyen-ict/)
+- 🐙 **GitHub:** [@khiem-nguyen-ict](https://github.com/khiem-nguyen-ict)
 
 <p align="center">
-  <strong>📧 Reach out:</strong> <a href="mailto:nguyenthanhkhiemvn@gmail.com">Email</a> · 
-  <a href="https://linkedin.com/in/khiem-nguyen-ict">LinkedIn</a> ·
-  <a href="https://github.com/khiem-nguyen-ict">GitHub</a>
+  <strong>⚡ Open for:</strong> Part-time remote roles · Technical consulting · Open-source collaboration · Mentoring
 </p>
 
 ---
@@ -238,10 +277,3 @@ I'm always interested in collaborating on:
 ## 🌍 Languages
 
 🇻🇳 **Vietnamese** (Native) · 🇬🇧 **English** (Professional) · 🇫🇮 **Finnish** (Elementary)
-
----
-
-<p align="center">
-  <i>⭐ If you find my projects useful, please consider giving them a star! It helps others discover them.</i><br/>
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=flat" alt="Made with love"/>
-</p>
