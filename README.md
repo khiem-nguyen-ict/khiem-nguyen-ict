@@ -235,23 +235,6 @@ I'm a **full-stack engineer, technical lead, and architect** with **22+ years** 
 
 ---
 
-## 🌟 Other Notable Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **Binary Vulnerability Detection PoC** | Detect CVE-vulnerable OSS components in ARM & x86_64 embedded binaries using Ghidra disassembly ⭐ 1 | Python, Java, Ghidra, ML |
-| **Flutter Enterprise Starter** | Scalable Flutter mobile app with clean architecture, BLoC, offline support, and i18n | Dart, Flutter, Clean Architecture |
-| **Sieniseikkailu** | Godot v4.5.1 mushroom hunting adventure game — TurkuAMK group project ⭐ 1 | GDScript, Godot Engine |
-| **Pimple Popper** | Satisfying casual game with interactive popping mechanics | JavaScript, Canvas, Game Dev |
-| **MatchLens** | Chrome extension for LinkedIn profile optimization and ATS scoring | JavaScript, WebSocket |
-| **Jenkins Learning Platform** | Complete production-ready Jenkins CI/CD environment with Docker ⭐ 1 | Shell, Docker, Jenkins |
-| **AI Report Generator** | MS Teams scraper with AI-powered HTML reports and email delivery ⭐ 1 | JavaScript, Claude API, Gemini API |
-| **Health CRM** | Healthcare CRM with patient events, workflows, and Google Sheets integration ⭐ 1 | HTML, JavaScript, Google Apps Script |
-| **ESP32 Robot Project** | IoT robot with embedded systems and sensor integration | C, ESP32, Arduino |
-| **Client Solutions** | Interactive SVG map of Vietnam for digital marketing campaigns | HTML, SVG, JavaScript |
-
----
-
 ## 🎓 Learning & Development
 
 - 📚 **Currently studying** for a **BSc in ICT** (Data Engineering & AI) at Turku University of Applied Sciences
